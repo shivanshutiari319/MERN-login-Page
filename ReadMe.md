@@ -2,10 +2,14 @@
 * General info
 * Technologies 
 * Setup
+* Sources
 
 # General Info
 
-This project is simple login Page
+This project is simple login Page.
+
+With this Project I learnt how to integrate a react frontend with a Node backend
+And I did this by building a sign up application
 
 
 # Technologies
@@ -29,7 +33,26 @@ This project is simple login Page
 
 To run This Project first you have to
 download it then extract this in any of your local folder.
+```
+$ cd client
+$ npm install
+$ npm start
+____________________________________________
 
-Then Signup/Login into MongoDB Atlas
+$ cd server
+$ npm install
+$ npm start
+
+```
+
+# Sources
+
+This App is Inspired by YouTube Tutorial - *Full Stack React, Node & MongoDB - Build A Sign Up Application (React, Node.js, Express and MongoDB)* By **Migrant Solutions** 
+
+
+I learnt a lot from this Tutorial.Also this is My First ReadMe in MarkDown.That is inspired By youtube Tutorial -"Markdown crash course" by **Traversy Media**
+
+
+
 
 
