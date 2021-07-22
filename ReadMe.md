@@ -8,7 +8,7 @@
 
 This project is simple login Page.
 
-With this Project I learnt how to integrate a react frontend with a Node backend
+With this Project I learn how to integrate a react frontend with a Node backend
 And I did this by building a sign up application
 
 
